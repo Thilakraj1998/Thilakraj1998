@@ -11,7 +11,6 @@ I do content and project on Artificial Intelligence/Machine Learning and data an
 * 📱 Android
 * ☕ Java
 
-- 🔭 I’m currently working on BlobCity AutoAI and Epicenter 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thilakraj1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Thilakraj1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Moist-Argument-507)  
